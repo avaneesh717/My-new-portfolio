@@ -65,7 +65,7 @@ const Hero = () => {
               <a href="https://github.com/avaneesh717" target="_blank" rel="noopener noreferrer" className="social-icon" title="GitHub">
                 <Github size={20} />
               </a>
-              <a href="/src/assets/resume-newest.pdf" target="_blank" rel="noopener noreferrer" className="social-icon" title="Resume">
+              <a href="/public/resume-newest.pdf" target="_blank" rel="noopener noreferrer" className="social-icon" title="Resume">
                 <FileText size={20} />
               </a>
             </div>
