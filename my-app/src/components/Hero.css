@@ -57,6 +57,7 @@
   background-clip: text;
   transition: all 0.4s ease;
   display: inline-block;
+  white-space: nowrap;
 }
 
 .hero-name:hover .name-text {
