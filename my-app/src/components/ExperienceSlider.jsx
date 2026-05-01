@@ -11,6 +11,7 @@ import company2 from '../assets/stealth_design_logo.jpeg';
 import company3 from '../assets/1720340023670.jpeg';
 import company4 from '../assets/company4.jpeg';
 import company5 from '../assets/company5.jpeg';
+import company6 from '../assets/1755946100632.jpeg';
 
 const experiences = [
   {
