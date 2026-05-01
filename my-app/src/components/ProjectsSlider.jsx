@@ -26,10 +26,10 @@ const projects = [
     github: "https://github.com/avaneesh717/Quickchat"
   },
   {
-    title: "Gemini Clone",
+    title: "SummarizeTube",
     image: project2,
-    desc: "A dynamic conversational Gemini Clone.",
-    github: "https://github.com/avaneesh717/Gemini-clone"
+    desc: "An AI powered summarizer of Youtube videos.",
+    github: "https://github.com/avaneesh717/youtube-transcript-summarizer"
   },
   {
     title: "Webscraper",

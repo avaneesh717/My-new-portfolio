@@ -9,9 +9,19 @@ import './ExperienceSlider.css';
 import company1 from '../assets/mystic_panels_logo.jpeg';
 import company2 from '../assets/stealth_design_logo.jpeg';
 import company3 from '../assets/1720340023670.jpeg';
-import company4 from '../assets/1755946100632.jpeg';
+import company4 from '../assets/company4.jpeg';
+import company5 from '../assets/company5.jpeg';
 
 const experiences = [
+  {
+    logo: company4,
+    role: "Full Stack Web Developer",
+    company: "Alpha Beta Solutions",
+    dates: "Apr 2026 - Present",
+    points: [
+      "Working on developing and maintaining web applications using mern stack and technologies."
+    ]
+  },
   {
     logo: company3,
     role: "Founding Software Developer",
@@ -57,6 +67,16 @@ const experiences = [
       "Updated and maintained the company-wide database of contacts and resources for improved distribution.",
       "Developed and coordinated after-school programs and activities to enhance participant engagement.",
       "Designed and published social media content (posts/reels) to increase reach and managed publicity campaigns to grow online presence."
+    ]
+  },
+  {
+    logo: company5,
+    role: "Publicity Volunteer",
+    company: "Rhythm Ember - Cultural Festival of Atharva college of Engineering, Mumbai",
+    dates: "Mar 2023 - Apr 2023",
+    points: [
+      "Volunteered as part of the publicity team for cultural festival - Rhythm Ember, where I contributed to creating awareness and boosting participation through social media promotions, poster campaigns, and on-ground engagement.",
+      "Gained hands-on experience in event promotion, teamwork, and communication while ensuring maximum reach and visibility for the festival.",
     ]
   }
 ];
