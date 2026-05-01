@@ -60,7 +60,7 @@ const experiences = [
     ]
   },
   {
-    logo: company4,
+    logo: company6,
     role: "IEEE Techithon Asst. Publicity Head",
     company: "IEEE Techithon",
     dates: "Aug 2023 - Oct 2023",
